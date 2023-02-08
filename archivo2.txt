@@ -1,1 +1,2 @@
 contenido de archivo2
+nuevo contenido del archivo 2
